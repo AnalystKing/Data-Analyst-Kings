@@ -20,9 +20,9 @@ I am actively seeking new full-time or contract roles where I can apply my skill
 
 - Field Enumerator / Data Analyst Consultant | STRANSFORM Ltd (*Sep 2025 - Present*)
 
-- Data Analyst / M&E Officer | Jomax Associates (*Apr 2025 - Present*)
+- Data Analyst / M&E Officer | Jomax Associates (*Mar 2025 – Aug 2025*)
 
-- Data Analyst Intern | Awake to Power Communications Ltd (*Dec 2024 - Mar 2025*)
+- Data Analyst Intern | Awake to Power Communications Ltd (*Dec 2024 – Feb 2025*)
 
   ![PostgreSql logo](https://github.com/user-attachments/assets/584eed3b-ca57-4873-b285-0427955bbf97)        ![Excel logo](https://github.com/user-attachments/assets/0b8884d7-bbf3-48a1-b720-1570d95cbc1b)     ![python](https://github.com/user-attachments/assets/629ea701-076f-4637-b93b-80b2ea2d4bb7)       ![power bi logo](https://github.com/user-attachments/assets/791a9207-90f9-4406-9998-444b0f770c2f)       ![mysql](https://github.com/user-attachments/assets/d247516a-437a-4aba-bbf7-f53ce45d5853)    <img width="397" height="127" alt="surveycto" src="https://github.com/user-attachments/assets/deb693bd-91cd-47b9-b1ca-d2310366502e" />
   
